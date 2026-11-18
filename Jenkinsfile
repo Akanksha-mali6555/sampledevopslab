@@ -63,6 +63,3 @@ pipeline {
     }
 }
 
-git add .
-git commit -m "Add Jenkins declarative pipeline"
-git push origin main
